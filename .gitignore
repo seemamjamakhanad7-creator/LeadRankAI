@@ -1,0 +1,7 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+leadrank.db
+.streamlit/secrets.toml
